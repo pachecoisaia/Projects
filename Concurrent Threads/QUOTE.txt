@@ -1,0 +1,57 @@
+pid: 16472
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<2> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<4> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<6> Even numbered threads: 'Controlling complexity is the essence of computer programming.'--Brian Kernigan
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<1> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<3> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<5> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra
+Thread<7> Odd numbered threads: 'Computer science is no more about computers than astronomy is about telescopes.'--Edsger Dijkstra

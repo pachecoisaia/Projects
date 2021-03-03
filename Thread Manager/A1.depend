@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1591684999 source:c:\users\isaac\desktop\a1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<semaphore.h>
+	<unistd.h>
+	<pthread.h>
+
+1592088628 source:e:\a1\main.c
+	"bots.h"
+
+1592088706 e:\a1\bots.h
+	<stdio.h>
+	<stdlib.h>
+	<semaphore.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/types.h>
+	<string.h>
+	<windows.h>
+

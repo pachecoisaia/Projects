@@ -1,0 +1,2 @@
+rev([],[]).
+rev([H|T],[X|Y]):- append(rev(H, X), [H], X), rev(T,Y) .

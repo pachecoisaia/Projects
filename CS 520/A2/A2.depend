@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593408027 source:c:\users\isaac\desktop\a2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+
